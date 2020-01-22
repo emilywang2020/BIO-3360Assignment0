@@ -2,7 +2,7 @@ import linecache
 import math
 # open sequence1 file
 CH01 = open('CH01.fa')
-readCH01 = CH01.read();
+readCH01 = CH01.read()
 
 
 # get rid of the first line in the file
